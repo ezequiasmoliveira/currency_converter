@@ -19,7 +19,7 @@ class CurrencyBox extends StatelessWidget {
                 DropdownMenuItem(child: Text('Real')),
                 DropdownMenuItem(child: Text('Dolar')),
                 DropdownMenuItem(child: Text('Euro')),
-                DropdownMenuItem(child: Text('bitcoin'))
+                DropdownMenuItem(child: Text('Bitcoin'))
               ],
               onChanged: (value) {}),
         ),
