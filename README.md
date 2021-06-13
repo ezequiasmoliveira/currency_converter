@@ -1,4 +1,5 @@
-# currency_converter
+# Currency Converter
+![plot](./assets/screen_app.png)
 
 A new Flutter project.
 
